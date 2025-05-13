@@ -2,6 +2,7 @@
 src = "src"
 out = "out"
 libs = ["lib"]
+test = "test" 
 remappings = [
     '@chainlink/=node_modules/@chainlink/'
 ]
